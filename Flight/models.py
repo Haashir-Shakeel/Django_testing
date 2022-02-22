@@ -1,5 +1,3 @@
-from operator import mod
-from tkinter import CASCADE
 from django.db import models
 from django.template import Origin
 
